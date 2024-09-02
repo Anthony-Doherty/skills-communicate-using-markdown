@@ -8,3 +8,7 @@
 #This is a commment
 cat markdown.txt | wc -l 
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
